@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Jon</h1>
 <h3 align="center">Passionate about program development.</h3>
 
-- 🔭 Atualmente estou trabalhando em projetos remotos. 
+- 🔭 * - *
 
 - Atualmente estou aprendendo **Laravel, Jquery e ciência de Dados.**
 
