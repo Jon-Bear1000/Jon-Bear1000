@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Eu souu Jon</h1>
+<h1 align="center">Olá 👋, Eu sou Jon</h1>
 <h3 align="center">Apaixonado por Desenvolvimento digital.</h3>
 
 - 🔭 Atualmente estou trabalhando em projetos remotos. [Etios Consultoria](https://prodatasystems.com.br/erp-para-industria/?gclid=CjwKCAiAheacBhB8EiwAItVO28a8KkC20cAXAJE4IUu5cUUQGaAh4rsDe37IIPh25h7uxGfsLRlgcxoC2DkQAvD_BwE)
@@ -6,8 +6,6 @@
 - Atualmente estou aprendendo **Laravel,Jquery e ciência de Dados.**
 
 - 👯 Também estou fazendo curso da Ferramenta Laravel [Framework Laravel](https://www.alura.com.br/)
-
-- 💬 Pergunte-me sobre **SQl, Php, Banco de dados.**
 
 - 📫 Você me acha através do **jone.freak@gmail.com**
 
