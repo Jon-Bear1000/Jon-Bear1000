@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando em projetos remotos. [Etios Consultoria](https://prodatasystems.com.br/erp-para-industria/?gclid=CjwKCAiAheacBhB8EiwAItVO28a8KkC20cAXAJE4IUu5cUUQGaAh4rsDe37IIPh25h7uxGfsLRlgcxoC2DkQAvD_BwE)
 
-- Atualmente estou aprendendo **Laravel,Jquery e ciência de Dados.**
+- Atualmente estou aprendendo **Laravel, Jquery e ciência de Dados.**
 
 - 👯 Também estou fazendo curso da Ferramenta Laravel [Framework Laravel](https://www.alura.com.br/)
 
