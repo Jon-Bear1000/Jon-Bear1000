@@ -11,6 +11,15 @@
 
 - 📄 Experiências [https://www.linkedin.com/in/jon-mota-02368b1a3](https://www.linkedin.com/in/jon-mota-02368b1a3)
 
+
+<div align="center">
+ 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jon&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/jon-mota-02368b1a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jon-mota-02368b1a3" height="30" width="40" /></a>
