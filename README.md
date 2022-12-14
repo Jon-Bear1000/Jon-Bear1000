@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Jon</h1>
 <h3 align="center">Passionate about program development.</h3>
 
-- 🔭 Atualmente estou trabalhando em projetos remotos. [Etios Consultoria](https://prodatasystems.com.br/erp-para-industria/?gclid=CjwKCAiAheacBhB8EiwAItVO28a8KkC20cAXAJE4IUu5cUUQGaAh4rsDe37IIPh25h7uxGfsLRlgcxoC2DkQAvD_BwE)
+- 🔭 Atualmente estou trabalhando em projetos remotos. 
 
 - Atualmente estou aprendendo **Laravel, Jquery e ciência de Dados.**
 
