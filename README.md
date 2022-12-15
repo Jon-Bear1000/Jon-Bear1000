@@ -9,7 +9,7 @@
 
 - 📫 Você me acha através do **jone.freak@gmail.com**
 
-- 📄 Experiências [https://www.linkedin.com/in/jon-mota-02368b1a3](https://www.linkedin.com/in/jon-mota-02368b1a3)
+- 📄 Experiências [https://www.linkedin.com/in/jon-mota-02368b1a3]([https://www.linkedin.com/in/jon-mota-02368b1a3](https://www.linkedin.com/in/jon-asm-02368b1a3/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
