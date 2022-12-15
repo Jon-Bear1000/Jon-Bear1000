@@ -3,7 +3,7 @@
 
 - 🔭 * - *
 
-- Atualmente estou aprendendo **Laravel, Jquery e ciência de Dados.**
+- Atualmente estou aprendendo ** Jquery e ciência de Dados.**
 
 - 👯 Também estou fazendo curso da Ferramenta Laravel [Framework Laravel](https://www.alura.com.br/)
 
